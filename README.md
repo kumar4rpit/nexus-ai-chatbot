@@ -48,11 +48,11 @@ Voice Output: Enable the AI to speak responses back to the user.
 Document Interaction: Upload and ask questions about PDFs.
 Web Search Integration: Combine AI answers with real-time web search for enhanced information.
 
-##Author
+## Author
 
 Developed by ```Kumar Arpit```
 Created as a hackathon project using Ollama, Streamlit, and Python.
 
-##License
+ ## License
 
 This project is open-source under the MIT License.
