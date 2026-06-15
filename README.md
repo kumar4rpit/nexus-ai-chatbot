@@ -27,7 +27,7 @@ Nexus AI is a lightweight, locally hosted conversational AI assistant designed t
    git clone https://github.com/Kumar4rpit/nexus-ai-chatbot.git
 2. Navigate into the project directory:
 
-```cd nexus-ai-chatbot```
+```bash cd nexus-ai-chatbot```
 
 3. Install the dependencies:
 
